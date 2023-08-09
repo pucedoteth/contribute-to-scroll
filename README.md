@@ -4,7 +4,7 @@
 
 This repository guides developers wanting to contribute to Scroll. You can start contributing today, if you need ideas on getting started check out the [issues](https://github.com/scroll-tech/contribute/issues) tab.
 
-## How to Contribute
+## How to Contribute to scroll
 
 To contribute to Scroll, you can visit the [CONTRIBUTING](https://github.com/scroll-tech/contribute/blob/main/CONTRIBUTING.md) page, which provides a comprehensive guide on how to get involved and contribute to the project. Whether you are a developer, designer, or community member, there are various ways you can contribute and help improve Scroll's ecosystem.
 
